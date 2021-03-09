@@ -1,0 +1,14 @@
+{
+	"DB_SERVER": {
+		"type": "string",
+		"value": "test1302.database.windows.net"
+	},
+	"DB_NAME_1": {
+		"type": "string",
+		"value": "test1302"
+	},
+	"DB_NAME_2": {
+		"type": "string",
+		"value": "test1303"
+	}
+}
